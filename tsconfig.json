@@ -31,7 +31,7 @@
     "noImplicitReturns": true, // return harus selalu explicit
     // "noImplicitOverride": true,
     "noUnusedLocals": true, // variabel harus di declared / tik boleh ada variable kosong
-    "noUnusedParameters": true,
+    "noUnusedParameters": true, // parameter harus selalu di panggil
     // "noFallthroughCasesInSwitch": true,
     // "noPropertyAccessFromIndexSignature": true,
 
