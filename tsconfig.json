@@ -21,7 +21,6 @@
     "declaration": false,
     "declarationMap": false,
     "preserveConstEnums": false,
-    
 
     // Stricter Typechecking Options
     "noUncheckedIndexedAccess": true,
@@ -29,9 +28,9 @@
 
     // Style Options
     "noImplicitReturns": true, // return harus selalu explicit
-    // "noImplicitOverride": true,
     "noUnusedLocals": true, // variabel harus di declared / tik boleh ada variable kosong
     "noUnusedParameters": true, // parameter harus selalu di panggil
+    // "noImplicitOverride": true,
     // "noFallthroughCasesInSwitch": true,
     // "noPropertyAccessFromIndexSignature": true,
 
@@ -42,7 +41,7 @@
     // "isolatedModules": true,
     "noUncheckedSideEffectImports": true,
     "moduleDetection": "force",
-    "skipLibCheck": true,  
-    "noEmitOnError": true,
+    "skipLibCheck": true,
+    "noEmitOnError": true
   }
 }
