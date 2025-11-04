@@ -1,5 +1,5 @@
 let user: [number, string] = [1, 'Mosh']
-user.push(1)
+user.push(1)//ini masih menjadi anomail? karena ketika di push dia tetap ngepush padahal anotasinya hanya membolehkannya
 
 //contoh type data enum
 
